@@ -1,0 +1,2 @@
+describe("Token contract", function () {
+});
